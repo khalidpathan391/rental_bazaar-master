@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403001705053",
+    "project_id": "fir-fdf69",
+    "storage_bucket": "fir-fdf69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403001705053:android:6f7e3e9fe93a76f5fc43b4",
+        "android_client_info": {
+          "package_name": "com.example.rental_bazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403001705053-v6mjq1nd2otc57jabc1v8b011mojtma8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwtuXPWH05UaZ1xqOjiKwZ1Mq09zpYIlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403001705053-v6mjq1nd2otc57jabc1v8b011mojtma8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
